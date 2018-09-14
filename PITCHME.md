@@ -1,6 +1,6 @@
-# Flux 
+# Slide 1
 
-An application architecture for React
+This is the slide 1
 
 ---
 
